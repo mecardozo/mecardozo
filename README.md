@@ -2,11 +2,10 @@
 
 <h3 align="center" style="font-weight: bold; font-size:21px;font-family: monospace" >Welcome to my page</img> </h3>
 <br>
-<div style="display:flex" >
- <img  src="imgs/key.gif">
-  <img  src="imgs/key.gif" >
+
+ <img style="width:100%; height:281px"  src="imgs/key.gif">
   
-</div>
+
 <div>
 <h3 style="font-family: monospace;font-weight: bold;" >My name's Marcos Cardozo, I'm 22 years old.</h3>
 <br>
