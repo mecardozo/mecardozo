@@ -1,23 +1,23 @@
-<h1 align="center" style="font-weight: bold;font-family: monospace"><img style="width:40px" src="imgs/icon.gif" ></img>Hey! Nice to see you.</h1>
-
-<h3 align="center" style="font-weight: bold; font-size:21px;font-family: monospace" >Welcome to my page</img></h3>
+<h1 style="font-weight: bold;"><img style="width:40px" src="imgs/icon.gif"></img>Hey! Nice to see you.</h1>
+<h3 align=center style="font-weight: bold; font-size:21px"><img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> Welcome to my page</img><img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> </h3>
 <br>
 <div style="display:flex" >
-  <div style="margin-right:50px">
-    <h3 style="font-family: monospace;font-weight: bold;" >My name's Marcos Cardozo, I'm 22 years old.</h3>
-    <br>
-    <h3 style="font-family: monospace;font-weight: bold;"  >I'm living in Buenos Aires <img style="width:25px" src="imgs/iconArg.png" ></img></h3>
-    <br>
-    <h3 style="font-family: monospace;font-weight: bold;"  >I'm Software Developer and Bachelor's degree student in systems at General Sarmiento University, 3rd year</h3>
-  </div>
-  <img style="height:281px"  src="imgs/key.gif">
-</div>  
-
-
-
-<div style="width: 100%;">
- 
+  <img src="imgs/key.gif">
+  <img src="imgs/key.gif">
 </div>
+
+
+
+<h3><img style="width:10px"  src="imgs/sss.gif" ></img> My name's Marcos Cardozo, I'm 22 years old.</h3>
+
+<h3><img style="width:10px"  src="imgs/sss.gif" ></img>  I'm living in Buenos Aires <img style="width:25px" src="imgs/iconArg.png" ></img></h3>
+
+<h3><img style="width:10px"  src="imgs/sss.gif" ></img>  I'm Software Developer and Bachelor's degree student in systems at General Sarmiento University, 3rd year</h3>
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/marcos-ernesto-cardozo-406a81199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcos-ernesto-cardozo-406a81199/" height="30" width="40" /></a>
