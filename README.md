@@ -1,10 +1,10 @@
 <h1 style="font-weight: bold;"><img style="width:40px" src="imgs/icon.gif"></img>Hey! Nice to see you.</h1>
-<h3 align=center style="font-weight: bold; font-size:21px"><img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> Welcome to my page</img><img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> </h3>
+<h2 align=center style="font-weight: bold; font-size:21px"><img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> Welcome to my page</img><img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> </h1>
 <br>
-<div style="display:flex" >
-  <img src="imgs/key.gif">
-  <img src="imgs/key.gif">
-</div>
+
+  <img  src="imgs/comp.gif" style="border:2px solid skyblue;margin-left:25%" >
+
+
 
 
 
