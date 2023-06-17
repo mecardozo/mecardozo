@@ -1,16 +1,16 @@
 <h1 align="center" style="font-weight: bold;font-family: monospace"><img style="width:40px" src="imgs/icon.gif" ></img>Hey! Nice to see you.</h1>
 
-<h3 align="center" style="font-weight: bold; font-size:21px;font-family: monospace" >Welcome to my page</img> </h3>
+<h3 align="center" style="font-weight: bold; font-size:21px;font-family: monospace" >Welcome to my page</img></h3>
 <br>
 <div style="display:flex" >
-<div style="margin-right:50px"  >
-<h3 style="font-family: monospace;font-weight: bold;" >My name's Marcos Cardozo, I'm 22 years old.</h3>
-<br>
-<h3 style="font-family: monospace;font-weight: bold;"  >I'm living in Buenos Aires <img style="width:25px" src="imgs/iconArg.png" ></img></h3>
-<br>
-<h3 style="font-family: monospace;font-weight: bold;"  >I'm Software Developer and Bachelor's degree student in systems at General Sarmiento University, 3rd year</h3>
-</div>
- <img style="width:100%; height:281px"  src="imgs/key.gif">
+  <div style="margin-right:50px">
+    <h3 style="font-family: monospace;font-weight: bold;" >My name's Marcos Cardozo, I'm 22 years old.</h3>
+    <br>
+    <h3 style="font-family: monospace;font-weight: bold;"  >I'm living in Buenos Aires <img style="width:25px" src="imgs/iconArg.png" ></img></h3>
+    <br>
+    <h3 style="font-family: monospace;font-weight: bold;"  >I'm Software Developer and Bachelor's degree student in systems at General Sarmiento University, 3rd year</h3>
+  </div>
+  <img style="height:281px"  src="imgs/key.gif">
 </div>  
 
 
