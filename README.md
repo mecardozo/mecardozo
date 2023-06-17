@@ -1,5 +1,5 @@
 <h1 style="font-weight: bold;font-family: Georgia, serif;">👋Hey! Nice to see you👋</h1>
-<h2 align=center style="font-size:23px"><img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> Welcome to my page</img><img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> </h1>
+<h2 align=center style="font-size:23px"><img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> Welcome to my page</img> <img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> </h1>
 <br>
 
   <p align=center><img  src="imgs/com.gif"></p>
@@ -7,7 +7,7 @@
 
 
 
-<h2 style="font-weight: bold;">🧑 About Me</h2>
+<h2 style="font-weight: bold;">🧑 About Me:</h2>
 <p><img style="width:10px"  src="imgs/sss.gif" ></img> My name's Marcos Ernesto Cardozo. </p>
 <p><img style="width:10px"  src="imgs/sss.gif" ></img> I'm 22 years old. </p>
 <p><img style="width:10px"  src="imgs/sss.gif" ></img>  I'm living in Buenos Aires <img style="width:25px" src="imgs/iconArg.png" ></img></p>
@@ -47,8 +47,10 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 
 
-<h2 style="font-weight: bold;" align="left">Connect with me:</h2>
+<h2 style="font-weight: bold;" align="left">📞 Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/marcos-ernesto-cardozo-406a81199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcos-ernesto-cardozo-406a81199/" height="30" width="40" /></a>
-<a href="https://marcoscar2001@gmail.com" target="blank"><img align="center" src="imgs/gm.png" height="36" width="40" /></a>
+<a href="https://www.linkedin.com/in/marcos-ernesto-cardozo-406a81199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcos-ernesto-cardozo-406a81199/" height="30" width="40" /></a> &nbsp;
+<a href="https://marcoscar2001@gmail.com" target="blank"><img align="center" src="imgs/gm.png" height="36" width="40" /></a>&nbsp; &nbsp;<span style="font-weight: bold; font-size:15px;" ><img style="width:30px" src="imgs/ws.png" ></img> +54 91170277003</span>
 </p>
+
+
