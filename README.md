@@ -1,5 +1,5 @@
-<h1 style="font-weight: bold;font-family: Georgia, serif;"><img style="width:40px;"></img>👋Hey! Nice to see you.👋</h1>
-<h2 align=center style="font-weight: bold; font-size:21px"><img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> Welcome to my page</img><img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> </h1>
+<h1 style="font-weight: bold;font-family: Georgia, serif;">👋Hey! Nice to see you👋</h1>
+<h2 align=center style="font-size:23px"><img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> Welcome to my page</img><img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> </h1>
 <br>
 
   <p align=center><img  src="imgs/com.gif"></p>
