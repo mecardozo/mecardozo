@@ -1,18 +1,18 @@
-<h1 style="font-weight: bold;"><img style="width:40px" src="imgs/icon.gif"></img>Hey! Nice to see you.</h1>
+<h1 style="font-weight: bold;font-family: Georgia, serif;"><img style="width:40px;"></img>Hey! Nice to see you.</h1>
 <h2 align=center style="font-weight: bold; font-size:21px"><img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> Welcome to my page</img><img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> <img style="width:10px"  src="imgs/sss.gif" ></img> </h1>
 <br>
 
-  <p align=center><img  src="imgs/comp.gif"></p>
+  <p align=center><img  src="imgs/com.gif"></p>
 
 
 
 
 
-<h3><img style="width:10px"  src="imgs/sss.gif" ></img> My name's Marcos Cardozo, I'm 22 years old.</h3>
+<p><img style="width:10px"  src="imgs/sss.gif" ></img> My name's Marcos Cardozo, I'm 22 years old.</p>
 
-<h3><img style="width:10px"  src="imgs/sss.gif" ></img>  I'm living in Buenos Aires <img style="width:25px" src="imgs/iconArg.png" ></img></h3>
+<p><img style="width:10px"  src="imgs/sss.gif" ></img>  I'm living in Buenos Aires <img style="width:25px" src="imgs/iconArg.png" ></img></p>
 
-<h3><img style="width:10px"  src="imgs/sss.gif" ></img>  I'm Software Developer and Bachelor's degree student in systems at General Sarmiento University, 3rd year</h3>
+<p><img style="width:10px"  src="imgs/sss.gif" ></img>  I'm Software Developer and Bachelor's degree student in systems at General Sarmiento University, 3rd year</p>
 
 
 
