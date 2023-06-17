@@ -7,24 +7,24 @@
 
 
 
-<h2 style="font-weight: bold;">About me</h2>
-<p><img style="width:10px"  src="imgs/sss.gif" ></img> My name's Marcos Cardozo, I'm 22 years old.</p>
-
+<h2 style="font-weight: bold;">🧑 About Me</h2>
+<p><img style="width:10px"  src="imgs/sss.gif" ></img> My name's Marcos Ernesto Cardozo. </p>
+<p><img style="width:10px"  src="imgs/sss.gif" ></img> I'm 22 years old. </p>
 <p><img style="width:10px"  src="imgs/sss.gif" ></img>  I'm living in Buenos Aires <img style="width:25px" src="imgs/iconArg.png" ></img></p>
 
 <p><img style="width:10px"  src="imgs/sss.gif" ></img>  I'm Software Developer and Bachelor's degree student in systems at General Sarmiento University, 3rd year</p>
 
-<p><img style="width:10px"  src="imgs/sss.gif" ></img> Spanish Native Speaker, English A2.</p>
-
 <p><img style="width:10px"  src="imgs/sss.gif" ></img> I have been working at Besysoft since October 2022 as Software Developer with Java, SQL And Oracle BPM. &nbsp; <a href="https://www.besysoft.com/" ><img style="width:50px; height:30px; margin-top:5px" src="imgs/besy.png" ></img></a></p>
 
+<p><img style="width:10px"  src="imgs/sss.gif" ></img> Spanish Native Speaker, still learning English (A2).</p>
 
 
 
 
 
 
-<h2 style="font-weight: bold;" align="left">Languages and Tools:</h2>
+
+<h2 style="font-weight: bold;" align="left">🛠️ Tech Skills:</h2>
 <h3 style="font-weight: bold;" align="left">Back End<h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
