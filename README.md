@@ -8,7 +8,7 @@
 
 
 <h2 style="font-weight: bold;">🧑 About Me:</h2>
-<p><img style="width:10px"  src="imgs/sss.gif" ></img> My name's Marcos Ernesto Cardozo. </p>
+<p><img style="width:10px"  src="imgs/sss.gif" ></img> My name's Marcos Cardozo. </p>
 <p><img style="width:10px"  src="imgs/sss.gif" ></img> I'm 22 years old. </p>
 <p><img style="width:10px"  src="imgs/sss.gif" ></img>  I'm living in Buenos Aires <img style="width:25px" src="imgs/iconArg.png" ></img></p>
 
