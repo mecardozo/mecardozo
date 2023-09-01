@@ -16,7 +16,7 @@
 
 <p><img style="width:10px"  src="imgs/sss.gif" ></img> I have been working at Besysoft since October 2022 as Software Developer with Java, SQL And Oracle BPM. &nbsp; <a href="https://www.besysoft.com/" ><img style="width:50px; height:30px; margin-top:5px" src="imgs/besy.png" ></img></a></p>
 
-<p><img style="width:10px"  src="imgs/sss.gif" ></img> Spanish Native Speaker, still learning English (A2).</p>
+<p><img style="width:10px"  src="imgs/sss.gif" ></img> Spanish Native Speaker, still learning English (B1).</p>
 
 
 
